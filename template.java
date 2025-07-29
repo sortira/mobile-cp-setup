@@ -13,7 +13,7 @@ public class Solution {
     }
     out.flush();
   }
-  public class FastReader {
+  static public class FastReader {
     BufferedReader br;
     StringTokenizer st;
 

@@ -1,0 +1,1 @@
+g++ $1.cpp -o $1.out && ./$1.out < input > output && cat output

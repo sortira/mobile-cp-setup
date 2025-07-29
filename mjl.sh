@@ -1,0 +1,1 @@
+cp template.java $1.java
