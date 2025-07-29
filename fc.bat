@@ -1,7 +1,7 @@
 @echo off
 setlocal
-del *.class
-del *.exe   
-del *.o
-del *.out
-del *.jar
+del *.class > nul
+del *.exe > nul
+del *.o > nul
+del *.out > nul
+del *.jar > nul
